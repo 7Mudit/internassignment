@@ -1,0 +1,18 @@
+@media screen and (min-width: 428px) and (max-width:429px) and (min-height: 926px) and (max-height:929px) {
+    .rectangle499 {
+        position: absolute;
+        width: 428px;
+        height: 3067px;
+        left: 0px;
+        top: 78px;
+        background: #F5FCFD;
+    }
+
+    .mask {
+        position: absolute;
+        width: 367px;
+        height: 367.86px;
+        left: 31px;
+        top: 84px;
+    }
+}
